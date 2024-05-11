@@ -4,7 +4,7 @@
       var respostaCorreta = "364462"; 
 
       if (respostaInserida === respostaCorreta) {
-        window.location.href = "Enigma.htmll"; 
+        window.location.href = "Enigma.html"; 
       } else {
         alert("tente novamente meu nobre.");
       }
